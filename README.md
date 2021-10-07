@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ophelia
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning DevOps
+- 👀 I’m interested in cloud technology
+- 🌱 I’m currently learning to get better at programming and devops
 
 
 <!---
